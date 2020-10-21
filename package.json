@@ -1,0 +1,26 @@
+{
+  "name": "thomas-kala.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas-kala/thomas-kala.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomas-kala/thomas-kala.github.io/issues"
+  },
+  "homepage": "https://thomas-kala.github.io"
+}
