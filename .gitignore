@@ -1,4 +1,7 @@
 # Compiled class file
+node_modules
+
+# Compiled class file
 *.class
 
 # Log file
